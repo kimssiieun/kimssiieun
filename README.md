@@ -1,5 +1,12 @@
 ### Hi there 👋
 <p>Hello, I'm Sieun kim!</p>
+<p>Good day!
+
+I am a front-end developer from South Korea. I am interested in data science and deep learning and computer vision. I love reading, exercising and communicating!
+  
+If you want to contact me, please leave me a message!
+
+</p>
 
 <!--
 **kimssiieun/kimssiieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
