@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>Hello, I'm Sieun kim!</h2>
+<h3>Hello, I'm Sieun kim!</h3>
 
 <!--
 **kimssiieun/kimssiieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
