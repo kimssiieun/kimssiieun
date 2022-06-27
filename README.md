@@ -9,6 +9,7 @@
   If you want to contact me, please leave me a message!
 
 </p>
+***
 
 <!--
 **kimssiieun/kimssiieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
