@@ -3,7 +3,7 @@
 <p>
   Good day!
   I am a front-end developer from South Korea. 
-  I am interested in data science and deep learning and computer vision.
+  I am interested in deep learning and computer vision.
   I love reading, exercising and communicating!
   
   If you want to contact me, please leave me a message!
