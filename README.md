@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
-<br/>
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Junyyy&layout=compact&theme=dracula)
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimssiieun&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimssiieun&layout=compact&theme=dracula)
